@@ -1,0 +1,5 @@
+#Berisi File file Dependensi / Versi Libraby yang digunakan
+
+pandas == 1.1.0
+numpy == 2.3.2
+matplotlib == 2.4.1
